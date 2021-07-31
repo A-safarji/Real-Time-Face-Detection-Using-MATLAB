@@ -1,4 +1,9 @@
 
+
+
+
+
+
 # Real-Time face detection using MATLAB
 This is a project for real-time or live-face recognition with attendance system. GUI based application automatic identifies a face and matches it with the database created and training by computer webcam or labtop camera. Also, this application 'Eigenface' PCA algorithm and viola jones algorithm is implemented.
 ## Table of contents
@@ -26,11 +31,11 @@ choosing an approach for detection of a face in a real video stream by Viola-Jon
 ## Screenshots
 Home page
 :-------------------------:
-![](https://user-images.githubusercontent.com/20365333/127751054-c235a7ca-9010-480e-b527-7f4b347b983a.png)
+![](https://user-images.githubusercontent.com/20365333/127752478-334b05b1-79b8-4534-8606-4aee7f01e04d.png)
 
 Detect camera lab for quick detection for face, eyes, and upper-body!
 :-------------------------:
-![](https://user-images.githubusercontent.com/20365333/127751375-f446b599-07f1-4724-a9ab-5f2f41127f2d.png)
+![](https://user-images.githubusercontent.com/20365333/127752476-af140efa-5fda-4aa1-8e00-020b05c05eb7.png)
 
 After login with password
 :-------------------------:
