@@ -82,7 +82,7 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Contributing
 
-1. Fork it (<https://github.com/A-safarji/Real-Time-Face-Detection-Using-MATLAB/fork>)
+1. Fork it (<https://github.com/A-safarji/Real-Time-Face-Detection-Using-MATLAB.git>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
