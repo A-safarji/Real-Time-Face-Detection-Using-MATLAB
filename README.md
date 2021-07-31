@@ -23,8 +23,35 @@ choosing an approach for detection of a face in a real video stream by Viola-Jon
 
 
 ## Screenshots
-
-
+Home page
+:-------------------------:
 ![](https://user-images.githubusercontent.com/20365333/127751054-c235a7ca-9010-480e-b527-7f4b347b983a.png)
-![](https://user-images.githubusercontent.com/20365333/127751055-9c1766aa-26dd-41fa-be60-a6a513528037.png)
+
+Detect camera lab for quick detection for face, eyes, and upper-body!
+:-------------------------:
+![](https://user-images.githubusercontent.com/20365333/127751375-f446b599-07f1-4724-a9ab-5f2f41127f2d.png)
+
+After login with password
+:-------------------------:
 ![](https://user-images.githubusercontent.com/20365333/127751056-19242f3a-7323-44a6-b3d8-0a8a1bd17418.png)
+
+## Features
+* Login Page
+* Face Detection and Data Gathering
+* Train the Recognizer
+* Face Recognition
+* Database 
+* Live-camera
+* Takes Image From Videos
+* Annotates Detected Features
+
+## Technologies
+* MATLAB version R2020a or higher
+* Computer Vision Toolbox
+* Image Acquisition Toolbox
+* Image Processing Toolbox
+* Control System Toolbox
+
+
+
+
