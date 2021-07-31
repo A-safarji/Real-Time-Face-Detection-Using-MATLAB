@@ -55,12 +55,39 @@ After login with password
 
 ## Setup
 
-To run this app, you will need to follow these 3 steps:
+To run this app, you will need to follow these 2 steps:
 
 #### 1. Requirements
-  - a Laptop with a camera 
-  - Windows 10  
-  - [Get MATLAB](https://www.mathworks.com/products/get-matlab.html?s_tid=gn_getml)
+  - a Laptop with camera or USB camera 
+  - Windows 10.     ` For macOS users, need to figure out what errors might happen when setup `
+  
+#### 2. Install MATHLAB and Toolboxs
+- [Get MATLAB](https://www.mathworks.com/products/get-matlab.html?s_tid=gn_getml) (MATLAB version R2020a or higher recommend) 
+- [Image Processing Toolbox](https://www.mathworks.com/products/image.html?s_tid=FX_PR_info)
+- [Image Acquisition Toolbox](https://www.mathworks.com/products/image-acquisition.html?s_tid=FX_PR_info)
+- [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html?s_tid=FX_PR_info)
+- [Control System Toolbox](https://www.mathworks.com/products/control.html)
+- [Here is a list of all the MATLAB toolboxes that might be needed](http://www.mathworks.com/products/)
+
+## Status
+Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) _done_
+
+## Contact
+Created by [A.Safarji](https://github.com/A-safarji) - feel free to contact me!
+
+## License
+>You can check out the full license [here](https://github.com/A-safarji/Real-Time-Face-Detection-Using-MATLAB/blob/main/LICENSE)
+
+This project is licensed under the terms of the **MIT** license.
+
+## Contributing
+
+1. Fork it (<https://github.com/A-safarji/Real-Time-Face-Detection-Using-MATLAB/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
 
 
 
