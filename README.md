@@ -53,5 +53,14 @@ After login with password
 * Control System Toolbox
 
 
+## Setup
+
+To run this app, you will need to follow these 3 steps:
+
+#### 1. Requirements
+  - a Laptop with a camera 
+  - Windows 10  
+  - [Get MATLAB](https://www.mathworks.com/products/get-matlab.html?s_tid=gn_getml)
+
 
 
