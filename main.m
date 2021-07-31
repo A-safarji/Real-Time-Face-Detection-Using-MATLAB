@@ -1,6 +1,6 @@
 function varargout = main(varargin)
 % MAIN MATLAB code for main.fig
-%     Contributor: A.Safarji + Fahad 
+%                                                                     Contributor: A.Safarji + Fahad 
 %     MAIN, by itself, creates a new MAIN or raises the existing
 %      singleton*.
 %
@@ -23,7 +23,6 @@ function varargout = main(varargin)
 
 % Edit the above text to modify the response to help main
 
-% Last Modified by GUIDE v2.5 02-Jul-2020 15:40:29
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
