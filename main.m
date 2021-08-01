@@ -126,7 +126,7 @@ function pushbutton1_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 p  = get(handles.edit1,'UserData');
-if strcmp(p,'000') == 1
+if strcmp(p,'a.safarji') == 1
     delete(hObject);
     delete(handles.pushbutton2)
     delete(handles.edit1);
